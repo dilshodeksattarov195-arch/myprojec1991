@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensarse",
+        "uuid": 16780148,
+        "checksum": "yik1g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
